@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @HJK21
+- 👀 I’m interested in creating apps
+- 🌱 I’m currently learning python
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Your life is short :)
